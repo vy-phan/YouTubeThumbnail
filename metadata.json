@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Thumbnail Extractor",
+  "description": "Công cụ lấy ảnh thumbnail và tiêu đề video YouTube nhanh chóng, chính xác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
